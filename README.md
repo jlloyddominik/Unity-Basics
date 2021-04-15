@@ -1,6 +1,6 @@
 # Unity-Basics
 
-This project covers basic concepts in C# and Unity Development.
+This project covers basic concepts in C# and Unity Development. It uses Unity 2020 LTS.
 
 
 ## Accessing the Repo:
